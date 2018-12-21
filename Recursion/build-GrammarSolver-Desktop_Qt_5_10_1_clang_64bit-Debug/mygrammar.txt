@@ -1,0 +1,6 @@
+<fam>::=<names> <v> <pp> <n>|<other> <v> <pp> <n>
+<names>::=Hanson|Elizabeth|Emmanuel|Kofi|Kwame
+<other>::=Kofi|Phillipa|Ama|Maame
+<v>::=is|was
+<pp>::=my
+<n>::=Mom|Dad|Sis|Bro|sib
